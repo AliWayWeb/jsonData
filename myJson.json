@@ -1,22 +1,6 @@
-[
-  {
-    id: 0,
-    name: 'Ali',
-    img: 'https://cdn.dribbble.com/users/44585/screenshots/4195259/dribbble-avatar.png?compress=1&resize=400x300',
-  },
-  {
-    id: 1,
-    name: 'Sherail',
-    img: 'https://cdn.dribbble.com/users/44585/screenshots/4195259/dribbble-avatar.png?compress=1&resize=400x300',
-  },
-  {
-    id: 2,
-    name: 'Ahmad',
-    img: 'https://cdn.dribbble.com/users/44585/screenshots/4195259/dribbble-avatar.png?compress=1&resize=400x300',
-  },
-  {
-    id: 3,
-    name: 'Mamaraim',
-    img: 'https://cdn.dribbble.com/users/44585/screenshots/4195259/dribbble-avatar.png?compress=1&resize=400x300',
-  },
-]
+{
+  id: 0,
+  name: 'Ali',
+  img: 'https://cdn.dribbble.com/users/44585/screenshots/4195259/dribbble-avatar.png?compress=1&resize=400x300',
+}
+
